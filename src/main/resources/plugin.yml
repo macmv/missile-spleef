@@ -1,0 +1,4 @@
+name: MissileSpleef
+main: net.cubiness.missilespleef.Main
+version: 1.0
+api-version: 1.15
